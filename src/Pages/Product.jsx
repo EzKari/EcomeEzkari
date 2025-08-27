@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { FaStar } from "react-icons/fa";
 
 // Data for fashion products

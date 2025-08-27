@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { BsFacebook, BsGoogle } from "react-icons/bs";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { MdOutlineLightMode, MdOutlineDarkMode } from "react-icons/md";
 
 const Login = () => {

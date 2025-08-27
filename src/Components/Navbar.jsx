@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { CiMenuFries } from "react-icons/ci";
 import { FaRegUserCircle } from "react-icons/fa";
 import { CiBellOn } from "react-icons/ci";

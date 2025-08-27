@@ -1,6 +1,6 @@
 import React from "react";
 import { FaTshirt, FaStar, FaShippingFast, FaHeart, FaUsers, FaTag, FaPalette, FaGlobe } from "react-icons/fa";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 
 const About = () => {
   const features = [
